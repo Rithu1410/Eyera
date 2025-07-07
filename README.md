@@ -1,1 +1,1 @@
-# Welcome to your EYERA project
+ Welcome to our EYERA project

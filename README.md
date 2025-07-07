@@ -1,2 +1,2 @@
-# Welcome to Our doctors portal project
+# Welcome to Our doctors portal of EYERA project
 
